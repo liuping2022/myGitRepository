@@ -1,3 +1,4 @@
 test1
 local
 test002
+github
